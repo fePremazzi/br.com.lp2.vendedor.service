@@ -10,8 +10,7 @@ public class ValidaFuncionario {
 
 		validaStringIsEmpty(func.getNome(), "Nome");
 		validaStringIsEmpty(func.getSenha(), "Senha");
-		validaStringIsEmpty(func.getUsername(), "Username");
-		// TODO validar Id
+		validaStringIsEmpty(func.getUsername(), "Username");	
 
 		return true;
 	}

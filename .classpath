@@ -4,6 +4,5 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/ftt-java/br.com.lp2.vendedor.comum/dist/br.com.lp2.vendedor.comum.jar"/>
 	<classpathentry kind="lib" path="C:/ftt-java/br.com.lp2.vendedor.dao/dist/br.com.lp2.vendedor.dao.jar"/>
-	<classpathentry kind="lib" path="C:/ftt-java/br.com.lp2.vendedor.comum/dist/br.com.lp2.vendedor.comum55.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
